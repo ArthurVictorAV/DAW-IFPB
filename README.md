@@ -2,12 +2,14 @@ DAW-IFPB
 
 Repositório com os códigos, atividades e exercícios desenvolvidos durante a disciplina de Desenvolvimento para Aplicações Web (DAW), do curso de Análise e Desenvolvimento de Sistemas (ADS) do IFPB.
 
-📚 Disciplina
+📚 Disciplina:
+
 Curso: Análise e Desenvolvimento de Sistemas (ADS) | 
 Instituição: IFPB | 
 Período: 3º Período
 
-🛠️ Tecnologias
+🛠️ Tecnologias:
+
 HTML | 
 CSS | 
 JavaScript
